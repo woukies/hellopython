@@ -1,0 +1,4 @@
+eng = input("영어 문장을 입력하세요: ")
+
+for s in eng:
+    print(s)
